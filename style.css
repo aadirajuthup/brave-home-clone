@@ -8,6 +8,7 @@ body {
     background: url("./images/bg.jpg") no-repeat;
     background-size: auto;
     box-shadow: black;
+    height: 100vh;
 }
 
 .container {
